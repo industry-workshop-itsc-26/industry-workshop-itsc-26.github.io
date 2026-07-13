@@ -1,4 +1,4 @@
-## Draft timetable
+## Draft Timetable
 
 The workshop is planned for Tuesday, 15 September 2026, preceding IEEE ITSC 2026
 in Naples, Italy. The timetable is a working draft: session order, timing, and
